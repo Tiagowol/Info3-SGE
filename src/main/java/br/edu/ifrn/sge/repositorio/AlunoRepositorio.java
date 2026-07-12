@@ -1,7 +1,6 @@
 package br.edu.ifrn.sge.repositorio;
 
 import br.edu.ifrn.sge.modelo.Aluno;
-import br.edu.ifrn.sge.repositorio.ConexaoBD; // Importando a conexão explicitamente
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
