@@ -4,7 +4,6 @@ import br.edu.ifrn.sge.modelo.Aluno;
 import br.edu.ifrn.sge.modelo.Turma;
 import br.edu.ifrn.sge.modelo.Atividade;
 import br.edu.ifrn.sge.modelo.Nota;
-
 import br.edu.ifrn.sge.servico.AlunoServico;
 import br.edu.ifrn.sge.servico.TurmaServico;
 import br.edu.ifrn.sge.servico.AtividadeServico;
